@@ -37,3 +37,7 @@ Parameters
 name,
 description,
 price
+
+
+For running Pytests run below command
+python manage.py test
