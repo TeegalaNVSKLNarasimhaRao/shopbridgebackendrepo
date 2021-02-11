@@ -40,4 +40,5 @@ price
 
 
 For running Pytests run below command
+
 python manage.py test
